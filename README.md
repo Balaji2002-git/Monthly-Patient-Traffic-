@@ -1,4 +1,7 @@
 # Monthly-Patient-Traffic-
-​A centralized data repository designed to ingest and analyze monthly patient traffic patterns. This system translates raw admission and visit data into actionable insights, enabling healthcare administrators to optimize resource allocation, staffing levels, and patient throughput.
-The data source was from Maven Anytics.
-The hospital can decide what patient must be treated and maintain timing.
+​Advanced Analytics for Monthly Patient Traffic and Capacity Planning.
+Why should someone care? Focus on operational efficiency, staffing challenges, or patient wait times.
+Data Cleaning: Preprocessing raw logs into structured monthly formats.
+​Trend Visualization: Identifying peak traffic hours/days/months.
+​Forecasting: (If applicable) Predictive modeling for future patient volume.
+​Reporting: Summarizing key performance indicators (KPIs).
